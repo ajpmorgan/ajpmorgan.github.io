@@ -11,9 +11,5 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- *UNDERSTANDING INCENTIVES IN SUBJECTIVE EVALUATIONS: EVIDENCE FROM EDUCATORS*
 
-
-nwips
