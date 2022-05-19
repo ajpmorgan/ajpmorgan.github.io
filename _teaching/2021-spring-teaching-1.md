@@ -2,9 +2,9 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2021-spring-teaching-1
 venue: "University of Illinois Chicago, Economics"
-date: Spring 2021
+date: "2021-01-01"
 location: 
 ---
 
