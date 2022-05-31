@@ -33,7 +33,7 @@ Below you can find a list of public reports I have worked on, as well as copies 
 
 "A Consideration of Educator Evaluation and Compensation Reform" with Minh Nguyen, Ben Ost, and Steven Rivkin. (2020) *Stanford University Hoover Institution*. [Report](https://www.hoover.org/sites/default/files/research/docs/rivkin_webreadypdf_revised.pdf)
 
-"A Statistical Analysis of TNP and Taxi Driving Behaviors and Public Safety Outcomes" with Ben Feigenberg. (2017) Report prepared for the City of Chicago-Business Affairs & Consumer Protection division
+"A Statistical Analysis of TNP and Taxi Driving Behaviors and Public Safety Outcomes" with Ben Feigenberg. (2017) Report prepared for the City of Chicago-Business Affairs & Consumer Protection division [Link to report](https://www.chicago.gov/content/dam/city/depts/obm/supp_info/2018Budget/2018DeptResponses/BACP%20Hearing%20Responses.pdf)
 
 
 
