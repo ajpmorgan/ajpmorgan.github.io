@@ -15,13 +15,13 @@ Below you can find a list of public reports I have worked on, as well as copies 
 
 "Understanding Incentives in Subjective Evaluations: Evidence from Educators" [Paper]({{ site.url }}/files/subj_teacher_evals.pdf){:target="_blank"}
 
-“Getting Effective Educators in Hard-to-staff Schools” with Minh Nguyen, Eric Hanushek, Ben Ost, and Steven Rivkin
+“Attracting and Retaining Highly Effective Educators in Hard-to-Staff Schools” with Minh Nguyen, Eric Hanushek, Ben Ost, and Steven Rivkin [NBER Working Paper](https://www.nber.org/papers/w31051)
+
+“The Effects of Comprehensive Educator Evaluation and Pay Reform on Achievement” with Eric Hanushek, Jin Luo, Minh Nguyen, Ben Ost, Steven Rivkin, and Ayman Shakeel
 
 “Elementary and Middle School Principal Effects on Future Academic, Behavioral, and Labor-Market Outcomes” with Eric Hanushek, Steven Rivkin, Jeffrey Schiman, and Lauren Sartain
 
 ## Works in Progress
-
-“A Synthetic Control Analysis of Educator Compensation Reform” with Eric Hanushek, Jin Luo, Minh Nguyen, Ben Ost, and Steven Rivkin
 
 “Teacher Autonomy: Good for Pupils? Good for Teachers?” with John Jerrim and Sam Sims
 
