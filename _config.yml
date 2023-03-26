@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrew J Morgan"
 title_separator          : "-"
 name                     : &name "Andrew J Morgan"
-description              : &description "Rsearch Fellow at UCL SRI"
+description              : &description "Senior Data Analyst CPS"
 url                      : https://ajpmorgan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ajpmorgan.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Andrew J Morgan"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow, UCL SRI"
-  location         : "United Kingdom"
+  bio              : "Senior Data Analyst, CPS"
+  location         : "Chicago, IL"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "a.j.morgan@ucl.ac.uk"
+  email            : "ajpmorgan@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
