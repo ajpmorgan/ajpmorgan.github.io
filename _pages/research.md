@@ -17,7 +17,7 @@ Below you can find a list of public reports I have worked on, as well as copies 
 
 “Attracting and Retaining Highly Effective Educators in Hard-to-Staff Schools” with Minh Nguyen, Eric Hanushek, Ben Ost, and Steven Rivkin [NBER Working Paper](https://www.nber.org/papers/w31051)
 
-“The Effects of Comprehensive Educator Evaluation and Pay Reform on Achievement” with Eric Hanushek, Jin Luo, Minh Nguyen, Ben Ost, Steven Rivkin, and Ayman Shakeel
+“The Effects of Comprehensive Educator Evaluation and Pay Reform on Achievement” with Eric Hanushek, Jin Luo, Minh Nguyen, Ben Ost, Steven Rivkin, and Ayman Shakeel [NBER Working Paper](https://www.nber.org/papers/w31073)
 
 “Elementary and Middle School Principal Effects on Future Academic, Behavioral, and Labor-Market Outcomes” with Eric Hanushek, Steven Rivkin, Jeffrey Schiman, and Lauren Sartain
 
