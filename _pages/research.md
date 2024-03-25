@@ -9,7 +9,11 @@ author_profile: true
 
 This page details my current research. My focus is on topics in the economics of education, with a particular interest in teacher labor markets and evaluation. 
 
-Below you can find a list of public reports I have worked on, as well as copies of current working papers. You can also find a list of current works in progress.
+Below you can find a list of published papers, public reports, and copies of current working papers.
+
+## Publications 
+
+“Teacher Autonomy: Good for Pupils? Good for Teachers?” with John Jerrim and Sam Sims, *British Educational Research Journal, 49, 1187-1209. [Open Access Link](https://doi.org/10.1002/berj.3892)
 
 ## Working papers
 
@@ -22,8 +26,6 @@ Below you can find a list of public reports I have worked on, as well as copies 
 “Elementary and Middle School Principal Effects on Future Academic, Behavioral, and Labor-Market Outcomes” with Eric Hanushek, Steven Rivkin, Jeffrey Schiman, and Lauren Sartain
 
 ## Works in Progress
-
-“Teacher Autonomy: Good for Pupils? Good for Teachers?” with John Jerrim and Sam Sims
 
 "Teacher Expectations for Long-Term Student Outcomes: Differences by Student Demographics from the Millennium Cohort Study" with John Jerrim
 
