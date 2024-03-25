@@ -13,7 +13,7 @@ Below you can find a list of published papers, public reports, and copies of cur
 
 ## Publications 
 
-“Teacher Autonomy: Good for Pupils? Good for Teachers?” with John Jerrim and Sam Sims, *British Educational Research Journal, 49, 1187-1209. [Open Access Link](https://doi.org/10.1002/berj.3892)
+“Teacher Autonomy: Good for Pupils? Good for Teachers?” with John Jerrim and Sam Sims, *British Educational Research Journal*, 49, 1187-1209. [Open Access Link](https://doi.org/10.1002/berj.3892)
 
 ## Working papers
 
