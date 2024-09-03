@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Data Analyst in the Office of Access and Enrollment, Chicago Public Schools.
+I am a Accreditation Project Manager in the Ness School of Economics and Management at South Dakota State University.
 
-I was previously employed as a postdoctoral Research Fellow within the Social Research Institute at University College London after completing my PhD in economics at the University of Illinois Chicago. 
+I previously spent time as a Senior Data Analyst at the Chicago Public Schools and a postdoctoral Research Fellow at University College London after completing my PhD in economics at the University of Illinois Chicago. 
 
 I have several years of experience in data analysis, statistics, and quantitative methods, with particular expertise in causal inference methods. I am well-versed in Python, SQL, SAS, Stata, and MS and Google office suites and have a working knowledge of R, Unix environment and version control using git. 
 
