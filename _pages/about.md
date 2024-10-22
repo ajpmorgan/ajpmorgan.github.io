@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Accreditation Project Manager in the Ness School of Economics and Management at South Dakota State University.
+I am an Accreditation Project Manager in the Ness School of Economics and Management at South Dakota State University.
 
 I previously spent time as a Senior Data Analyst at the Chicago Public Schools and a postdoctoral Research Fellow at University College London after completing my PhD in economics at the University of Illinois Chicago. 
 
