@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-##Instructor
+# Instructor
 
 - Principles of Microeconomics (two sections, Spring 2025)
 
 - Econometrics (Spring 2020)
 
-##Teaching Assistant
+# Teaching Assistant
 - Econometrics (Fall, 2014, Spring 2015, Spring 2021)
 
 - Intermediate Microeconomics (Fall 2013, Spring 2018)
