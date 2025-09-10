@@ -23,13 +23,13 @@ Jerrim, J., Morgan, A., Sims, S. (2023) *Teacher Autonomy: Good for Pupils? Good
 
 “The Effects of Comprehensive Educator Evaluation and Pay Reform on Achievement” with Eric Hanushek, Jin Luo, Minh Nguyen, Ben Ost, Steven Rivkin, and Ayman Shakeel [NBER Working Paper](https://www.nber.org/papers/w31073)
 
-“Elementary and Middle School Principal Effects on Future Academic, Behavioral, and Labor-Market Outcomes” with Eric Hanushek, Steven Rivkin, Jeffrey Schiman, and Lauren Sartain
+“The Lasting Impacts of Middle School Principals” with Eric Hanushek, Steven Rivkin, Jeffrey Schiman, Ayman Shakeel, and Lauren Sartain [NBER Working Paper[(https://www.nber.org/papers/w32642)
 
 ## Works in Progress
 
-"Teacher Expectations for Long-Term Student Outcomes: Differences by Student Demographics from the Millennium Cohort Study" with John Jerrim
+"The Impact of Transportation Policy on Student Achievement and School Choice"
 
-“Understanding Stability of Value-added in a High Stakes Setting”
+"The Effect of Administrative Spending on Student Outcomes–Evidence from Oklahoma"
 
 ## Public Reports
 
