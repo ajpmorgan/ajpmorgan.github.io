@@ -17,7 +17,7 @@ Jerrim, J., Morgan, A., Sims, S. (2023) *Teacher Autonomy: Good for Pupils? Good
 
 ## Working papers
 
-"Understanding Incentives in Subjective Evaluations: Evidence from Educators" [Paper]({{ site.url }}/files/teacher_evaluations_manuscript.pdf){:target="_blank"}
+"Understanding Incentives in Teacher Subjective Evaluations" [Paper]({{ site.url }}/files/teacher_evaluations_manuscript.pdf){:target="_blank"}
 
 “Attracting and Retaining Highly Effective Educators in Hard-to-Staff Schools” with Minh Nguyen, Eric Hanushek, Ben Ost, and Steven Rivkin [NBER Working Paper](https://www.nber.org/papers/w31051)
 
